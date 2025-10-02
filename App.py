@@ -1,8 +1,8 @@
 from flask import Flask, render_template, request, redirect
 from helper import preprocessing, vectorization, get_prediction
 
-app = Flask(__name__)
-
+app = Flask(__name__)  # Here Define the app 
+# In between Define and run we build the app 
 data = dict()
 reviews = []
 positive = 0
@@ -34,5 +34,5 @@ def my_post():
 
 
 
-if __name__ == "__main__":
+if __name__ == "__main__":  # In here we run the app 
     app.run()

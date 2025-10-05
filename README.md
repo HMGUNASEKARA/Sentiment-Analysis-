@@ -3,7 +3,7 @@
 ## 🎬 Project Demonstration
 
 <p align="center">
-  <img src="your_demo_video_or_gif_link_here" alt="Sentiment Analysis Web App Demo" width="700">
+  <img src="<!-- Uploading "Recording 2025-10-06 004221.mp4"... -->" alt="Sentiment Analysis Web App Demo" width="700">
 </p>
 
 *A short demo showing how a user enters a comment and receives a sentiment prediction.*
